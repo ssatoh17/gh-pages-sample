@@ -3,11 +3,14 @@
 GitHub Pagesでの静的Webサイト公開のテスト用（2017/08/02）
 
 サイトURL：https://ssatoh17.github.io/gh-pages-sample/
+ローカルリポジトリ<file:///V:\Public\www\demo\GitHub\170802_test\gh-pages-sample>
 
 「GitHubリポジトリのアドレス」とは？？→TopページのURLでOK
 
 
 ## 静的WebサイトをGitHub Pagesで公開するまでの手順
+
+【事前準備】各種インストール（Git？GitHub？）
 
 １．ブラウザでGitHubu上にリポジトリを新規作成
 
