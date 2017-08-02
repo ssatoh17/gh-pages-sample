@@ -2,6 +2,8 @@
 
 GitHub Pagesでの静的Webサイト公開のテスト用（2017/08/02）
 
+サイトURL：https://ssatoh17.github.io/gh-pages-sample/
+
 「GitHubリポジトリのアドレス」とは？？→TopページのURLでOK
 
 
