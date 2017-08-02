@@ -21,5 +21,8 @@ GitHub Pagesでの静的Webサイト公開のテスト用（2017/08/02）
 
 ５．git push
 
-６．【参考URL】GitHubでgit clone〜git pushまで http://qiita.com/nt_tn/items/c5ea999a2638e03ee418
+６．GitHub Pages を使った静的サイトの公開方法が、とても簡単になっていた https://www.tam-tam.co.jp/tipsnote/html_css/post11245.html
+
+
+【参考URL】GitHubでgit clone〜git pushまで http://qiita.com/nt_tn/items/c5ea999a2638e03ee418
 
