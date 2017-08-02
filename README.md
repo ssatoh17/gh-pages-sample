@@ -29,4 +29,5 @@ GitHub Pagesでの静的Webサイト公開のテスト用（2017/08/02）
 
 【参考URL】GitHubでgit clone〜git pushまで http://qiita.com/nt_tn/items/c5ea999a2638e03ee418
 
-GitHub Desktop を使って管理してみた（2017-08-02）
+GitHub Desktop を使って管理してみた（2017-08-02）→ SourceTreeの方が分かりやすい！
+
