@@ -4,6 +4,7 @@ GitHub Pagesのテスト用（2017/08/02）
 GitHubリポジトリのアドレス とは？？TopページのURLでOK？？
 
 ##静的WebサイトをGitHub Pagesで公開するまでの手順
+
 １．ブラウザでGitHubu上にリポジトリを新規作成
 
 ２．git clone リポジトリURL
