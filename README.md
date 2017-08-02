@@ -18,7 +18,7 @@ GitHub Pagesでの静的Webサイト公開のテスト用（2017/08/02）
 
 　　2.5．ページを編集
  
-３．<b><font color="red">トップフォルダ直下に移動し</font></b>、　git add .
+３．<b><font color="red">トップフォルダ直下に移動し</font></b>、　git add .　（← カレントディレクトリの全てをadd？）
 
 ４．git commit -m "コメント"
 
