@@ -1,7 +1,7 @@
 # gh-pages-sample
 GitHub Pagesのテスト用（2017/08/02）
 
-GitHubリポジトリのアドレス とは？？TopページのURLでOK？？
+GitHubリポジトリのアドレス とは？？TopページのURLでOK
 
 ## 静的WebサイトをGitHub Pagesで公開するまでの手順
 
@@ -9,14 +9,13 @@ GitHubリポジトリのアドレス とは？？TopページのURLでOK？？
 
 ２．ローカルの対象フォルダ上で、　git clone リポジトリURL
 
- 　2.5．<b><font color="red">トップフォルダ直下に移動</font></b>
+　　2.5．ページを編集
  
-３．git add .
+３．<b><font color="red">トップフォルダ直下に移動し</font></b>、　git add .
 
 ４．git commit -m "コメント"
 
 ５．git push
 
-
-【参考URL】GitHubでgit clone〜git pushまで http://qiita.com/nt_tn/items/c5ea999a2638e03ee418
+６．【参考URL】GitHubでgit clone〜git pushまで http://qiita.com/nt_tn/items/c5ea999a2638e03ee418
 
