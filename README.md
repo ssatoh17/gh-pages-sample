@@ -1,7 +1,9 @@
-# gh-pages-sample
-GitHub Pagesのテスト用（2017/08/02）
+# gh-pages-sample（GitHub Pagesサンプル）
 
-GitHubリポジトリのアドレス とは？？TopページのURLでOK
+GitHub Pagesでの静的Webサイト公開のテスト用（2017/08/02）
+
+「GitHubリポジトリのアドレス」とは？？→TopページのURLでOK
+
 
 ## 静的WebサイトをGitHub Pagesで公開するまでの手順
 
