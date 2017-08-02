@@ -7,9 +7,9 @@ GitHubリポジトリのアドレス とは？？TopページのURLでOK？？
 
 １．ブラウザでGitHubu上にリポジトリを新規作成
 
-２．git clone リポジトリURL
+２．ローカルの対象フォルダ上で、　git clone リポジトリURL
 
-　2.5．<b><font color="red">トップフォルダ直下に移動</font></b>
+ 　2.5．<b><font color="red">トップフォルダ直下に移動</font></b>
  
 ３．git add .
 
